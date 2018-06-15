@@ -1,0 +1,5 @@
+//Diverse Hilfsfunktionen
+
+class Utils {
+
+}
